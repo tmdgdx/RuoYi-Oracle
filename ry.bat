@@ -1,6 +1,6 @@
 @echo off
 
-rem jar平级目录
+rem jar平级目录 new
 set AppName=ruoyi-admin.jar
 
 rem JVM参数
